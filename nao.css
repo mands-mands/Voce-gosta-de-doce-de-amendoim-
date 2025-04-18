@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(./assets/berserk.jpg);
+}
+
+h1 {
+    color: rgb(255, 12, 12);
+    font-weight: bolder;
+    text-shadow: -1px -1px 0 black;
+    background-color: black;
+}
+
+.wrapper {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
